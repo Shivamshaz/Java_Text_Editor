@@ -1,4 +1,4 @@
-Java_Text_Editor
+Java Text Editor
 ================
 
 A Basic text editor in java with functionalities like Cut, Copy and Paste.
